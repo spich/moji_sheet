@@ -4,6 +4,8 @@ description: >-
   locale-aware numbers and dates, cell colours, charts, CSV and JSON. Mobile and web.
 version: 0.1.0
 homepage: https://mojiapp.eu
+repository: https://github.com/spich/moji_sheet
+issue_tracker: https://github.com/spich/moji_sheet/issues
 
 topics:
   - spreadsheet
